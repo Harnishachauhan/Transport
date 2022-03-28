@@ -1,0 +1,323 @@
+                            @media screen and (max-width:768px) {
+                                .header-logo img {
+                                    margin-top: 15px;
+                                    width: 70%;
+                                }
+                                .header-content {
+                                    display: none;
+                                }
+                                .navbar-address {
+                                    display: none!important;
+                                }
+                                .header-content:before {
+                                    border-bottom: 55px solid #ea1e00;
+                                    border-right: 84px solid transparent;
+                                    border-left: 5px solid #ea1e00;
+                                }
+                                .header-contact {
+                                    position: relative;
+                                    color: #fff;
+                                    top: 2px;
+                                    width: 46%;
+                                }
+                                .header-contact h3 {
+                                    font-size: 14px;
+                                }
+                                .track-form-content {
+                                    top: 0px;
+                                }
+                                .track-form-content .track-form-wrapper label {
+                                    margin-right: 0px;
+                                    margin-bottom: 10px;
+                                }
+                                .explore-btn {
+                                    margin-top: 15px;
+                                    margin: 0 auto;
+                                    text-align: center;
+                                }
+                                .slider-desc {
+                                    margin: 0 auto!important;
+                                }
+                                .slider-desc h1 {
+                                    font-size: 10px;
+                                    font-weight: 900;
+                                    margin: 14px auto!important;
+                                }
+                                .slider-desc p {
+                                    font-size: 8px;
+                                }
+                                .slider-desc .slider-btn-service-inner a {
+                                    padding: 0px 37px;
+                                    font-size: 10px;
+                                    margin-bottom: 4px;
+                                }
+                                .about-desc {
+                                    position: absolute;
+                                    top: 34px;
+                                    left: 30px;
+                                    max-width: 150px;
+                                }
+                                .about-shape {
+                                    position: absolute;
+                                    top: 0px;
+                                    left: 156px;
+                                }
+                                .about-desc h3 {
+                                    font-size: 10px;
+                                    color: #00044b;
+                                    font-weight: 700;
+                                }
+                                .about-desc h3 span {
+                                    font-size: 14px;
+                                }
+                                .about-desc p {
+                                    margin-bottom: 0rem;
+                                    font-size: 10px;
+                                }
+                                .about .container .row .col-md-6 {
+                                    width: 100% !important;
+                                }
+                                .whatwedo .card-slider .carousel .card .card-body {
+                                    margin-top: 4px;
+                                    padding: 0.3rem 0.1rem !important;
+                                }
+                                .whatwedo .card-slider .carousel .card .card-body .card-content {
+                                    padding: 0px;
+                                }
+                                .whatwedo .wtd-content {
+                                    flex-direction: column!important;
+                                }
+                                .whychooseus-service-desc {
+                                    padding-left: 77px;
+                                }
+                                .whychooseus-details {
+                                    padding-right: 0px!important;
+                                }
+                                .whychooseus-details-inner h2 {
+                                    font-size: 26px;
+                                }
+                                .whychooseus-service-icon {
+                                    left: 0!important;
+                                }
+                                .whychooseus-service span {
+                                    font-size: 16px!important;
+                                }
+                                .whychooseus-service p {
+                                    font-size: 12px!important;
+                                }
+                                .why-chooseus-image {
+                                    /* display: none; */
+                                }
+                                .footer-sec .footer-inner .footer-gallary ul li a {
+                                    width: 50px;
+                                    height: 50px;
+                                    margin: 1px;
+                                }
+                                .our-team .col-md-3 {
+                                    padding-right: 15px!important;
+                                    padding-left: 15px!important;
+                                    padding-bottom: 30px!important;
+                                }
+                                .our-team .our-team-center {
+                                    display: flex;
+                                    flex-direction: column;
+                                    align-items: center;
+                                }
+                                .our-team .our-team-desc {
+                                    padding: 0px !important;
+                                }
+                                /* .our-team .col-md-3 {
+                                    padding-right: 15px!important;
+                                    padding-left: 15px!important;
+                                    padding-bottom: 10px!important;
+                                }
+                                .our-team .our-team-inner {
+                                    display: flex;
+                                    justify-content: center;
+                                } */
+                            }
+                            
+                            @media screen and (min-width:320px) and (max-width:480px) {
+                                .header-logo img {
+                                    margin-top: 17px;
+                                    width: 70%;
+                                }
+                                .header-content {
+                                    display: none;
+                                }
+                                .header-content:before {
+                                    border-bottom: 55px solid #ea1e00;
+                                    border-right: 84px solid transparent;
+                                    border-left: 5px solid #ea1e00;
+                                }
+                                .track-form-content {
+                                    top: 0px;
+                                }
+                                .track-form-content .track-form-wrapper label {
+                                    margin-right: 0px;
+                                    margin-bottom: 10px;
+                                }
+                                .explore-btn {
+                                    margin-top: 15px;
+                                    margin: 0 auto;
+                                    text-align: center;
+                                }
+                                .about-desc {
+                                    top: 24px;
+                                    left: 46px;
+                                    max-width: 129px;
+                                }
+                                .about-shape {
+                                    position: absolute;
+                                    top: 0px;
+                                    left: 156px;
+                                }
+                                .about-desc h3 {
+                                    font-size: 12px;
+                                    color: #00044b;
+                                    font-weight: 700;
+                                }
+                                .about-desc h3 span {
+                                    font-size: 16px;
+                                }
+                                .about-desc p {
+                                    margin-bottom: 0rem;
+                                    font-size: 10px;
+                                }
+                                .about .container .row .col-md-6 {
+                                    width: 100% !important;
+                                }
+                                .why-chooseus-image {
+                                    display: none;
+                                }
+                            }
+                            
+                            @media screen and (min-width:820px) and (max-width:1180px) {
+                                .header-logo img {
+                                    margin-top: 50px!important;
+                                    width: 70%!important;
+                                }
+                                .header-content {
+                                    display: none!important;
+                                }
+                                .header-content:before {
+                                    border-bottom: 100px solid #ea1e00!important;
+                                    border-right: 84px solid transparent!important;
+                                    border-left: 5px solid #ea1e00!important;
+                                }
+                                .header-contact {
+                                    position: relative!important;
+                                    color: #fff!important;
+                                    top: 20px!important;
+                                    width: 46%!important;
+                                }
+                                .header-contact h3 {
+                                    font-size: 14px;
+                                }
+                                /*                                 
+                                .header-logo img {
+                                    margin-top: 50px;
+                                    width: 70%;
+                                }
+                                .header-content {
+                                    display: none;
+                                    padding-left: 1rem!important;
+                                }
+                                .header-content:before {
+                                    border-bottom: 100px solid #ea1e00;
+                                    border-right: 84px solid transparent;
+                                    border-left: 5px solid #ea1e00;
+                                } */
+                                .track-form-content {
+                                    top: 0px;
+                                }
+                                .track-form-content .track-form-wrapper label {
+                                    margin-right: 0px;
+                                    margin-bottom: 10px;
+                                }
+                                .explore-btn {
+                                    margin: 15px auto;
+                                    text-align: center;
+                                }
+                                .slider-desc {
+                                    margin: 50 auto!important;
+                                }
+                                .slider-desc h1 {
+                                    font-size: 18px;
+                                    font-weight: 900;
+                                    margin: 14px auto!important;
+                                }
+                                .slider-desc p {
+                                    font-size: 14px;
+                                }
+                                .slider-desc .slider-btn-service-inner a {
+                                    padding: 0px 34px;
+                                    font-size: 15px;
+                                    margin-bottom: 4px;
+                                }
+                                .about-desc {
+                                    position: absolute;
+                                    top: 34px;
+                                    left: 30px;
+                                    max-width: 150px;
+                                }
+                                .about-shape {
+                                    position: absolute;
+                                    top: 0px;
+                                    left: 350px;
+                                }
+                                .about-desc h3 {
+                                    font-size: 10px;
+                                    color: #00044b;
+                                    font-weight: 700;
+                                }
+                                .about-desc h3 span {
+                                    font-size: 16px;
+                                }
+                                .about-desc p {
+                                    margin-bottom: 0rem;
+                                    font-size: 10px;
+                                }
+                                .about-details-inner {
+                                    padding: 0px 10px;
+                                }
+                                .about-details-inner .sub-title {
+                                    font-size: 18px;
+                                }
+                                .about-details-inner h2 {
+                                    font-size: 14px;
+                                    line-height: normal;
+                                    padding: 3px 0px 3px;
+                                }
+                                .about-details-inner p {
+                                    font-size: 12px;
+                                }
+                                .about-service-desc {
+                                    padding: 0px 8px;
+                                }
+                                .about-service-desc p {
+                                    margin-bottom: 0;
+                                }
+                                .about .container .row .col-md-6 {
+                                    width: 100% !important;
+                                }
+                                .why-chooseus-image {
+                                    display: none;
+                                }
+                                .our-team .col-md-3 {
+                                    padding-bottom: 10px!important;
+                                }
+                                .our-team .our-team-center {
+                                    display: flex;
+                                    flex-direction: column;
+                                    align-items: center;
+                                }
+                                .our-team .our-team-desc {
+                                    padding: 0px !important;
+                                }
+                                .footer-sec .footer-inner .footer-gallary ul li a {
+                                    width: 50px;
+                                    height: 50px;
+                                    margin: 1px;
+                                }
+                            }
